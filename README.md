@@ -1,2 +1,9 @@
-# homebrew-epazote
-brew install epazote
+# homebrew epazote
+
+To install epazote using homebrew:
+
+    brew tap epazote/tap
+
+Next:
+
+    brew install epazote
